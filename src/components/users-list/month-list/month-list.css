@@ -1,0 +1,25 @@
+.big {
+    text-transform: capitalize;
+}
+
+.red {
+    background-color: #fc5d5d;
+}
+
+.green {
+    background-color: #5dfc9a;
+}
+
+.blue {
+    background-color: #5dc7fc;
+}
+
+.grey {
+    background-color: #9d9e9e;
+}
+
+.tooltip-inner {
+    padding: 20px;
+    max-width: 500px;
+    min-width: 350px;
+}

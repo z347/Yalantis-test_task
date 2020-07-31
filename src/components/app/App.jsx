@@ -1,7 +1,9 @@
 import React from 'react';
 
-function App() {
-    return <div className="App"></div>;
-}
+import MonthPage from '../pages/months-page.jsx';
+
+const App = () => {
+    return <MonthPage />;
+};
 
 export default App;
